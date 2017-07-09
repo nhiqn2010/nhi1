@@ -1,0 +1,2 @@
+# nhi1
+./sgminer
